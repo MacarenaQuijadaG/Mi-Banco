@@ -35,7 +35,7 @@ Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
 ####  node serverExpress.js complementando con esta informacion:
 
 - node serverExpress transferencia "Pago de mensualidad" 5000 1 2
-- node serverExpress movimientos 2
+- node serverExpress movimientos 1
 - node serverExpress consulta 2
 
 
