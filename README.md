@@ -33,10 +33,10 @@ instalar las dependencias con npm i creando la carpeta node_modules.
 Instrucciones y ejemplos para ejecutar el conjunto de pruebas.
 
 ####  node serverExpress.js complementando con esta informacion:
-- node serverExpress transferencia "Pago de mensualidad" "02/05/2024" 10000 1 2
+
 - node serverExpress transferencia "Pago de mensualidad" 5000 1 2
-- node serverExpress movimientos 1
-- node serverExpress consulta 1
+- node serverExpress movimientos 2
+- node serverExpress consulta 2
 
 
 ## Despliegue 📦
